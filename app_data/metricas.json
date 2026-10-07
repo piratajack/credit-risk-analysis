@@ -1,0 +1,21 @@
+{
+  "modelo": "Regresión logística",
+  "fecha_entrenamiento": "2026-10-04",
+  "clientes_entrenamiento": 23881,
+  "clientes_prueba": 5971,
+  "tasa_impago": 0.0748,
+  "auc": 0.7949,
+  "gini": 0.5899,
+  "ks": 0.4502,
+  "brier": 0.0552,
+  "comparacion_cv": {
+    "Regresión logística": {
+      "auc_cv": 0.8027,
+      "auc_cv_std": 0.0112
+    },
+    "Gradient Boosting": {
+      "auc_cv": 0.7956,
+      "auc_cv_std": 0.011
+    }
+  }
+}

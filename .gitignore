@@ -1,0 +1,23 @@
+# Datos (no se suben a GitHub por tamaño y licencia de Kaggle)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Modelos entrenados (se regeneran con train_model.py)
+models/
+reports/*.xlsx
+reports/model/
+reports/sql/
+
+# Secretos (conexión a la base de datos en la nube)
+.streamlit/secrets.toml
+.env

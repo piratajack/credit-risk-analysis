@@ -1,0 +1,452 @@
+codigo_entidad,nombre_entidad,plazo,monto,creditos,tasa,tasa_min,tasa_max,producto,periodo
+49,AV Villas,Entre 31 días y 1 año,507796330.0,66,21.68630201299407,15.52,29.65,Libre inversión,2026-08-29 a 2026-09-25
+49,AV Villas,Más de 1 año y hasta 3 años,15598685364.0,692,20.08777088818009,14.11,29.65,Libre inversión,2026-08-29 a 2026-09-25
+49,AV Villas,Más de 3 años y hasta 5 años,41875743850.0,894,19.18583548780352,13.9,29.65,Libre inversión,2026-08-29 a 2026-09-25
+49,AV Villas,Más de 5 años y hasta 7 años,122094000478.0,2766,19.319160336974477,13.9,29.23,Libre inversión,2026-08-29 a 2026-09-25
+49,AV Villas,Más de 7 años y hasta 10 años,196766374.32,4,16.497140718519898,15.0,29.65,Libre inversión,2026-08-29 a 2026-09-25
+43,Banagrario,Entre 31 días y 1 año,6000000.0,2,27.726666666666663,27.68,27.82,Libre inversión,2026-08-29 a 2026-09-25
+43,Banagrario,Más de 1 año y hasta 3 años,128350747.0,15,26.08350056225228,24.1,27.82,Libre inversión,2026-08-29 a 2026-09-25
+43,Banagrario,Más de 3 años y hasta 5 años,1042100000.0,54,24.343147490643886,24.1,27.82,Libre inversión,2026-08-29 a 2026-09-25
+43,Banagrario,Más de 5 años y hasta 7 años,374000000.0,22,27.340679144385025,27.29,27.68,Libre inversión,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Entre 31 días y 1 año,2252800000.0,488,24.097604758522728,17.85,26.7,Libre inversión,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 1 año y hasta 3 años,20229098626.0,2778,24.12814256287615,17.75,26.7,Libre inversión,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 3 años y hasta 5 años,80908487340.0,4851,23.023548279417753,17.75,26.7,Libre inversión,2026-08-29 a 2026-09-25
+42,Banco Davibank,Entre 31 días y 1 año,703830000.0,86,25.712428995638152,21.13,29.23,Libre inversión,2026-08-29 a 2026-09-25
+42,Banco Davibank,Más de 10 años,2694756400.0,12,17.68,17.68,17.68,Libre inversión,2026-08-29 a 2026-09-25
+42,Banco Davibank,Más de 1 año y hasta 3 años,3895931000.0,307,26.46886427146682,19.84,29.24,Libre inversión,2026-08-29 a 2026-09-25
+42,Banco Davibank,Más de 3 años y hasta 5 años,19133593404.0,1192,26.349167869679583,18.15,29.24,Libre inversión,2026-08-29 a 2026-09-25
+42,Banco Davibank,Más de 5 años y hasta 7 años,188063620046.0,5126,23.624601220457304,17.68,29.24,Libre inversión,2026-08-29 a 2026-09-25
+42,Banco Davibank,Más de 7 años y hasta 10 años,1321500000.0,5,17.68,17.68,17.68,Libre inversión,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Entre 31 días y 1 año,26946572756.0,3443,23.362356646863965,14.0,29.23,Libre inversión,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Más de 1 año y hasta 3 años,131048050768.0,9536,23.19244124636357,13.0,29.23,Libre inversión,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Más de 3 años y hasta 5 años,480583774143.0,18378,22.65046324367804,12.26,29.23,Libre inversión,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Entre 31 días y 1 año,1338951300.0,400,27.886966217307528,23.13,28.9,Libre inversión,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 1 año y hasta 3 años,97749114470.0,17053,26.04825947068541,13.88,28.9,Libre inversión,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 3 años y hasta 5 años,132216635534.0,10630,25.03521560371904,14.02,28.9,Libre inversión,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 5 años y hasta 7 años,420654524186.0,16117,22.1329483566914,14.16,28.9,Libre inversión,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Entre 31 días y 1 año,469761311.29,16,21.075651617517224,16.77,29.09,Libre inversión,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 10 años,7633130481.57,12,16.157594090208185,3.78,29.09,Libre inversión,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 1 año y hasta 3 años,17416815445.96,185,16.898957867531482,15.77,29.09,Libre inversión,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 3 años y hasta 5 años,14240094071.11,410,20.693227321117565,10.69,29.08,Libre inversión,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 5 años y hasta 7 años,242372916703.44,2669,19.574142174109205,14.71,29.09,Libre inversión,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 7 años y hasta 10 años,3712215024.16,62,18.568154123687233,4.03,29.09,Libre inversión,2026-08-29 a 2026-09-25
+56,Banco Falabella S.A.,Entre 31 días y 1 año,18372841447.0,4104,24.40670004830309,12.54,29.64,Libre inversión,2026-08-29 a 2026-09-25
+56,Banco Falabella S.A.,Más de 1 año y hasta 3 años,64127454935.0,7297,24.583170693453468,12.54,29.64,Libre inversión,2026-08-29 a 2026-09-25
+56,Banco Falabella S.A.,Más de 3 años y hasta 5 años,67368987603.0,5586,24.296823248611048,12.54,29.65,Libre inversión,2026-08-29 a 2026-09-25
+56,Banco Falabella S.A.,Más de 5 años y hasta 7 años,102184632392.0,5294,23.760579748441945,12.54,29.64,Libre inversión,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Entre 31 días y 1 año,813695000.0,8,17.136189665660964,16.68,18.02,Libre inversión,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Hasta 30 días,3000000.0,1,18.07,18.07,18.07,Libre inversión,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Más de 1 año y hasta 3 años,182400000.0,9,18.274144736842103,17.02,20.27,Libre inversión,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Más de 3 años y hasta 5 años,177500000.0,6,20.943661971830984,18.86,22.42,Libre inversión,2026-08-29 a 2026-09-25
+7,Bancolombia,Entre 31 días y 1 año,292671800.0,33,26.962475175264576,19.56,29.56,Libre inversión,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 1 año y hasta 3 años,4116883700.0,499,26.420732864035,10.22,29.56,Libre inversión,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 3 años y hasta 5 años,850287745489.61,32562,20.49212583532165,10.0,29.56,Libre inversión,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 5 años y hasta 7 años,12012270273.79,100,19.678459913467993,15.53,27.55,Libre inversión,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 7 años y hasta 10 años,66860000.0,1,8.86,8.86,8.86,Libre inversión,2026-08-29 a 2026-09-25
+60,Banco Mundo Mujer S.A.,Entre 31 días y 1 año,3920465000.0,1950,29.07563604062273,25.24,29.66,Libre inversión,2026-08-29 a 2026-09-25
+60,Banco Mundo Mujer S.A.,Más de 1 año y hasta 3 años,30578150000.0,5366,28.972866821570303,22.24,29.66,Libre inversión,2026-08-29 a 2026-09-25
+60,Banco Mundo Mujer S.A.,Más de 3 años y hasta 5 años,1771550000.0,106,27.52897857808134,25.24,29.66,Libre inversión,2026-08-29 a 2026-09-25
+54,Bancoomeva,Entre 31 días y 1 año,65513412.0,8,23.750815435776722,12.68,27.27,Libre inversión,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 1 año y hasta 3 años,671946984.0,49,22.19827341854696,15.53,29.08,Libre inversión,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 3 años y hasta 5 años,3522334270.0,116,20.673876645273648,15.53,29.23,Libre inversión,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 5 años y hasta 7 años,27555601741.0,697,23.54434988823023,15.53,29.24,Libre inversión,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 7 años y hasta 10 años,28278208.0,1,19.84,19.84,19.84,Libre inversión,2026-08-29 a 2026-09-25
+2,Banco Popular,Más de 5 años y hasta 7 años,239700000.0,7,25.081964956195243,25.0,25.21,Libre inversión,2026-08-29 a 2026-09-25
+59,Banco Santander,Más de 3 años y hasta 5 años,21000000.0,1,5.0,5.0,5.0,Libre inversión,2026-08-29 a 2026-09-25
+59,Banco Santander,Más de 5 años y hasta 7 años,148000000.0,2,5.0,5.0,5.0,Libre inversión,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Entre 31 días y 1 año,662500621.0,64,20.676865146666785,0.0,28.17,Libre inversión,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Más de 10 años,320000000.0,1,23.53,23.53,23.53,Libre inversión,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Más de 1 año y hasta 3 años,1699378056.11,184,22.139862973560145,18.02,28.17,Libre inversión,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Más de 3 años y hasta 5 años,3212237876.45,258,22.00328251137405,18.02,28.17,Libre inversión,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Más de 5 años y hasta 7 años,5136086452.82,254,21.412079890554597,16.63,28.17,Libre inversión,2026-08-29 a 2026-09-25
+67,Banco Unión,Entre 31 días y 1 año,239413302.0,46,27.70700731382085,16.76,29.24,Libre inversión,2026-08-29 a 2026-09-25
+67,Banco Unión,Más de 1 año y hasta 3 años,619249200.0,13,29.230477500818733,29.23,29.24,Libre inversión,2026-08-29 a 2026-09-25
+67,Banco Unión,Más de 5 años y hasta 7 años,35000000.0,1,29.23,29.23,29.23,Libre inversión,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Entre 31 días y 1 año,312864343.0,15,22.85480107747529,18.68,28.17,Libre inversión,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 1 año y hasta 3 años,53149181534.15,5256,21.5814812954622,15.7,29.22,Libre inversión,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 3 años y hasta 5 años,353340754984.19,15436,21.87126916956741,15.33,29.64,Libre inversión,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 5 años y hasta 7 años,91915455433.33,1953,19.734059407036824,15.0,29.64,Libre inversión,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 7 años y hasta 10 años,149314597.68,1,16.98,16.98,16.98,Libre inversión,2026-08-29 a 2026-09-25
+58,Coopcentral,Más de 1 año y hasta 3 años,61100000.0,4,17.639934533551553,16.0,20.0,Libre inversión,2026-08-29 a 2026-09-25
+58,Coopcentral,Más de 3 años y hasta 5 años,344700000.0,6,14.888308674209457,12.0,23.0,Libre inversión,2026-08-29 a 2026-09-25
+55,Finandina,Entre 31 días y 1 año,148647413.0,22,29.00987116795635,23.14,29.23,Libre inversión,2026-08-29 a 2026-09-25
+55,Finandina,Más de 1 año y hasta 3 años,998491635.0,87,29.01580961109404,20.84,29.23,Libre inversión,2026-08-29 a 2026-09-25
+55,Finandina,Más de 3 años y hasta 5 años,2365609954.0,150,29.10723485360343,29.08,29.23,Libre inversión,2026-08-29 a 2026-09-25
+55,Finandina,Más de 5 años y hasta 7 años,1086353863.0,44,29.051069400173887,20.84,29.23,Libre inversión,2026-08-29 a 2026-09-25
+55,Finandina,Más de 7 años y hasta 10 años,35000000.0,1,16.62,16.62,16.62,Libre inversión,2026-08-29 a 2026-09-25
+65,Lulo Bank,Entre 31 días y 1 año,3494605899.61,1254,21.770897761441898,16.04,28.42,Libre inversión,2026-08-29 a 2026-09-25
+65,Lulo Bank,Más de 1 año y hasta 3 años,26508008926.88,2986,20.628102695916716,14.44,29.22,Libre inversión,2026-08-29 a 2026-09-25
+65,Lulo Bank,Más de 3 años y hasta 5 años,37747533187.1,3025,23.18690848893273,17.44,29.19,Libre inversión,2026-08-29 a 2026-09-25
+65,Lulo Bank,Más de 5 años y hasta 7 años,13097140.53,1,17.95,17.95,17.95,Libre inversión,2026-08-29 a 2026-09-25
+62,Mibanco S.A.,Más de 1 año y hasta 3 años,3929696.84,1,28.9,28.9,28.9,Libre inversión,2026-08-29 a 2026-09-25
+43,Banagrario,Entre 31 días y 1 año,507201000.0,93,17.663792658137503,7.67,25.6,Libranza,2026-08-29 a 2026-09-25
+67,Banco Unión,Más de 5 años y hasta 7 años,604330000.0,17,20.338691277944168,17.46,23.73,Libranza,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 10 años,29645720686.0,1049,21.551837052626812,11.35,28.48,Libranza,2026-08-29 a 2026-09-25
+49,AV Villas,Más de 5 años y hasta 7 años,9091407541.0,184,16.761893374348514,10.53,24.47,Libranza,2026-08-29 a 2026-09-25
+67,Banco Unión,Más de 3 años y hasta 5 años,374500000.0,16,19.88210947930574,18.16,21.23,Libranza,2026-08-29 a 2026-09-25
+43,Banagrario,Más de 1 año y hasta 3 años,7574009595.0,609,18.706350108076407,7.67,25.6,Libranza,2026-08-29 a 2026-09-25
+54,Bancoomeva,Entre 31 días y 1 año,3433140.0,1,17.46,17.46,17.46,Libranza,2026-08-29 a 2026-09-25
+43,Banagrario,Más de 5 años y hasta 7 años,35336664841.0,782,11.09903314674733,7.67,24.4,Libranza,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Más de 10 años,190826787921.07,3879,18.862056165767193,11.88,26.08,Libranza,2026-08-29 a 2026-09-25
+55,Finandina,Entre 31 días y 1 año,5000000.0,1,19.42,19.42,19.42,Libranza,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 5 años y hasta 7 años,40601970030.41,2146,18.317039044255996,10.0,29.22,Libranza,2026-08-29 a 2026-09-25
+58,Coopcentral,Más de 1 año y hasta 3 años,96800000.0,10,15.199380165289256,14.0,17.0,Libranza,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 7 años y hasta 10 años,92979078609.05,1184,17.54802339395367,13.79,26.87,Libranza,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 10 años,50459443904.18,518,18.8479876728742,3.78,24.75,Libranza,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 3 años y hasta 5 años,28215169694.73,676,17.24763505236361,13.39,28.55,Libranza,2026-08-29 a 2026-09-25
+49,AV Villas,Entre 31 días y 1 año,78412707.0,8,16.724142905179896,13.75,18.25,Libranza,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Más de 3 años y hasta 5 años,5784490276.43,275,21.281359917089198,11.22,26.08,Libranza,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 5 años y hasta 7 años,51504254.0,1,10.69,10.69,10.69,Libranza,2026-08-29 a 2026-09-25
+2,Banco Popular,Más de 1 año y hasta 3 años,5712966000.0,386,17.469831010721926,14.71,23.73,Libranza,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Entre 31 días y 1 año,6000000.0,1,28.93,28.93,28.93,Libranza,2026-08-29 a 2026-09-25
+55,Finandina,Más de 3 años y hasta 5 años,414799131.0,38,24.576945725279252,19.42,29.23,Libranza,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Más de 5 años y hasta 7 años,80807503145.0,2425,20.23060971748368,15.8,29.23,Libranza,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Más de 1 año y hasta 3 años,21697271596.0,1867,20.966771768505545,15.66,29.23,Libranza,2026-08-29 a 2026-09-25
+57,Banco Pichincha S.A.,Más de 3 años y hasta 5 años,7953628348.0,162,16.542505511513497,14.71,21.99,Libranza,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Más de 1 año y hasta 3 años,1298407735.87,113,21.699844081144153,18.02,28.32,Libranza,2026-08-29 a 2026-09-25
+67,Banco Unión,Entre 31 días y 1 año,5900000.0,1,23.43,23.43,23.43,Libranza,2026-08-29 a 2026-09-25
+51,Bancien,Más de 10 años,72033264561.0,2515,20.016628548908617,10.03,24.31,Libranza,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 1 año y hasta 3 años,9058163069.52,426,16.62513764363778,13.14,29.22,Libranza,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 3 años y hasta 5 años,9026982963.0,435,18.862124052339368,14.98,28.9,Libranza,2026-08-29 a 2026-09-25
+57,Banco Pichincha S.A.,Más de 10 años,65670301198.0,770,16.370613464035262,14.57,21.99,Libranza,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 10 años,28454216956.0,527,17.370666391852897,16.15,21.85,Libranza,2026-08-29 a 2026-09-25
+55,Finandina,Más de 7 años y hasta 10 años,748035762.0,30,22.625556650351697,20.55,29.23,Libranza,2026-08-29 a 2026-09-25
+2,Banco Popular,Más de 3 años y hasta 5 años,16991865000.0,604,17.524158002667747,14.71,23.73,Libranza,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 5 años y hasta 7 años,25254227260.0,716,19.851625577526775,11.22,28.9,Libranza,2026-08-29 a 2026-09-25
+43,Banagrario,Más de 3 años y hasta 5 años,13136123668.0,582,17.414168855225792,7.67,25.6,Libranza,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 7 años y hasta 10 años,49409275713.0,873,20.315853082609426,12.28,28.9,Libranza,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Entre 31 días y 1 año,16900000.0,4,23.86852071005917,21.7,25.34,Libranza,2026-08-29 a 2026-09-25
+55,Finandina,Más de 1 año y hasta 3 años,219705534.0,22,25.097800025647054,20.55,29.23,Libranza,2026-08-29 a 2026-09-25
+57,Banco Pichincha S.A.,Más de 1 año y hasta 3 años,2851909000.0,82,16.671046639286175,15.25,18.44,Libranza,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Más de 7 años y hasta 10 años,402522945.0,13,20.164495684786367,18.02,28.48,Libranza,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 7 años y hasta 10 años,90879002.0,2,18.882711268770315,18.72,19.0,Libranza,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Entre 31 días y 1 año,2581724098.0,506,21.124010052843374,16.87,29.08,Libranza,2026-08-29 a 2026-09-25
+67,Banco Unión,Más de 1 año y hasta 3 años,347200227.0,22,19.932608691698807,18.86,21.7,Libranza,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 7 años y hasta 10 años,91474820987.47,3045,19.456261717226415,10.0,29.22,Libranza,2026-08-29 a 2026-09-25
+2,Banco Popular,Más de 7 años y hasta 10 años,57075642000.0,951,18.128461682305737,14.84,24.02,Libranza,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 1 año y hasta 3 años,2223138503.0,181,18.836901161416304,13.92,28.9,Libranza,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Más de 5 años y hasta 7 años,6699179217.92,224,20.99947696204896,10.03,26.08,Libranza,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 10 años,119058618929.0,1776,17.30386293230215,10.56,28.9,Libranza,2026-08-29 a 2026-09-25
+51,Bancien,Más de 5 años y hasta 7 años,2797327978.0,124,20.60890208415168,18.86,24.31,Libranza,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Más de 10 años,3854053327.0,132,21.105731410903232,18.02,28.63,Libranza,2026-08-29 a 2026-09-25
+58,Coopcentral,Más de 3 años y hasta 5 años,62000000.0,3,15.120967741935484,14.0,15.39,Libranza,2026-08-29 a 2026-09-25
+43,Banagrario,Más de 7 años y hasta 10 años,59846041347.0,1614,19.687954705924152,18.0,24.4,Libranza,2026-08-29 a 2026-09-25
+55,Finandina,Más de 10 años,9142805830.0,308,23.61797085065406,20.55,29.23,Libranza,2026-08-29 a 2026-09-25
+51,Bancien,Más de 1 año y hasta 3 años,1459602687.0,152,21.500974171062207,18.02,24.31,Libranza,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 3 años y hasta 5 años,10456455429.74,386,18.34969888885319,10.47,23.0,Libranza,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 5 años y hasta 7 años,21031028265.0,666,20.300161760569058,16.0,26.65,Libranza,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Más de 3 años y hasta 5 años,55662242258.0,2267,20.440005855141415,15.94,29.23,Libranza,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Entre 31 días y 1 año,681567333.0,132,19.88439033821769,16.65,26.65,Libranza,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Más de 7 años y hasta 10 años,21829595772.33,611,22.503195435557632,10.03,26.08,Libranza,2026-08-29 a 2026-09-25
+57,Banco Pichincha S.A.,Más de 7 años y hasta 10 años,90643434322.0,795,16.396222905932447,14.71,18.86,Libranza,2026-08-29 a 2026-09-25
+2,Banco Popular,Más de 5 años y hasta 7 años,37476852000.0,857,17.14964476952333,14.71,23.73,Libranza,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 5 años y hasta 7 años,37022017920.47,820,19.061643709338888,13.35,24.16,Libranza,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 3 años y hasta 5 años,14718354344.0,703,19.42270185213649,16.0,28.05,Libranza,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 5 años y hasta 7 años,28030288381.97,509,17.094070655413358,12.17,25.61,Libranza,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Más de 1 año y hasta 3 años,713689244.0,81,28.21343477826044,18.02,28.93,Libranza,2026-08-29 a 2026-09-25
+67,Banco Unión,Más de 10 años,18420288000.0,367,19.54536434935219,17.46,23.73,Libranza,2026-08-29 a 2026-09-25
+49,AV Villas,Más de 1 año y hasta 3 años,2088260837.0,104,16.90563892202131,11.75,22.99,Libranza,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 1 año y hasta 3 años,8231420000.0,735,19.391815421883464,16.35,26.65,Libranza,2026-08-29 a 2026-09-25
+57,Banco Pichincha S.A.,Entre 31 días y 1 año,46000000.0,2,16.63,16.63,16.63,Libranza,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 1 año y hasta 3 años,2202756501.03,154,18.50264020886075,8.34,24.9,Libranza,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 7 años y hasta 10 años,49626932331.0,1211,18.812582656696677,16.15,24.85,Libranza,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 7 años y hasta 10 años,44476492187.29,834,20.005654327564336,3.78,26.23,Libranza,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 3 años y hasta 5 años,22357608.0,1,17.6,17.6,17.6,Libranza,2026-08-29 a 2026-09-25
+57,Banco Pichincha S.A.,Más de 5 años y hasta 7 años,11580590000.0,160,16.470114760992317,14.71,18.44,Libranza,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Más de 5 años y hasta 7 años,3178295761.0,176,21.927047625969507,16.63,28.93,Libranza,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Entre 31 días y 1 año,340326572.0,36,17.701756586586487,13.44,27.07,Libranza,2026-08-29 a 2026-09-25
+49,AV Villas,Más de 3 años y hasta 5 años,6450235332.0,185,17.43384192320349,11.75,27.3,Libranza,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Más de 7 años y hasta 10 años,128268217785.0,2923,19.828346052976304,11.18,29.23,Libranza,2026-08-29 a 2026-09-25
+67,Banco Unión,Más de 7 años y hasta 10 años,491550000.0,14,20.275160207506865,18.86,23.43,Libranza,2026-08-29 a 2026-09-25
+2,Banco Popular,Más de 10 años,484211646000.0,5784,17.13014857785969,14.84,22.42,Libranza,2026-08-29 a 2026-09-25
+51,Bancien,Más de 3 años y hasta 5 años,3836293762.0,219,21.00173847274837,18.02,24.31,Libranza,2026-08-29 a 2026-09-25
+51,Bancien,Más de 7 años y hasta 10 años,3735751849.0,150,20.616385174702216,14.03,24.31,Libranza,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Entre 31 días y 1 año,46428515.47,9,17.225426361774645,9.9,20.27,Libranza,2026-08-29 a 2026-09-25
+49,AV Villas,Más de 7 años y hasta 10 años,32288798361.0,435,17.320208905551223,16.0,26.76,Libranza,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 10 años,19980669.0,1,20.13,20.13,20.13,Libranza,2026-08-29 a 2026-09-25
+58,Coopcentral,Más de 7 años y hasta 10 años,16000000.0,1,14.0,14.0,14.0,Libranza,2026-08-29 a 2026-09-25
+55,Finandina,Más de 5 años y hasta 7 años,1147964901.0,64,24.74068053890787,20.55,29.23,Libranza,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 10 años,187538201481.17,1944,16.819503502590205,14.28,23.88,Libranza,2026-08-29 a 2026-09-25
+51,Bancien,Entre 31 días y 1 año,123051446.0,27,21.60590222759349,18.02,24.31,Libranza,2026-08-29 a 2026-09-25
+49,AV Villas,Más de 10 años,109481162186.0,1330,16.975493266749837,13.5,20.72,Libranza,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Más de 3 años y hasta 5 años,1145148885.63,92,27.44770669099725,18.02,28.93,Libranza,2026-08-29 a 2026-09-25
+58,Coopcentral,Más de 5 años y hasta 7 años,167000000.0,3,14.910419161676646,13.0,16.0,Libranza,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 3 años y hasta 5 años,1812066295.0,21,21.80509917022655,19.42,28.02,Vehículo,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 1 año y hasta 3 años,378432443.0,11,20.253196376321252,17.75,24.02,Vehículo,2026-08-29 a 2026-09-25
+59,Banco Santander,Más de 7 años y hasta 10 años,21793157772.0,258,22.05199951174657,3.66,29.23,Vehículo,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 3 años y hasta 5 años,14122086787.0,187,18.895529680265238,0.0,29.2,Vehículo,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 1 año y hasta 3 años,2377452822.0,57,19.167817304010416,16.24,25.51,Vehículo,2026-08-29 a 2026-09-25
+43,Banagrario,Más de 1 año y hasta 3 años,9793000.0,1,22.4,22.4,22.4,Vehículo,2026-08-29 a 2026-09-25
+54,Bancoomeva,Entre 31 días y 1 año,50000.0,1,26.23,26.23,26.23,Vehículo,2026-08-29 a 2026-09-25
+43,Banagrario,Más de 5 años y hasta 7 años,124792000.0,2,21.0442400153856,20.9,22.4,Vehículo,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 3 años y hasta 5 años,3866452834.0,56,19.538671730115304,16.77,25.78,Vehículo,2026-08-29 a 2026-09-25
+55,Finandina,Entre 31 días y 1 año,257724161.0,12,23.871747143528385,18.01,28.17,Vehículo,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 3 años y hasta 5 años,7499561094.85,107,18.210023252255095,14.57,25.93,Vehículo,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 5 años y hasta 7 años,172187687497.0,1853,17.849484699210553,0.0,29.2,Vehículo,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 5 años y hasta 7 años,25500757121.0,319,19.294813895323088,16.63,28.63,Vehículo,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Más de 3 años y hasta 5 años,16042218999.0,195,21.00418147390671,17.2,29.23,Vehículo,2026-08-29 a 2026-09-25
+59,Banco Santander,Más de 1 año y hasta 3 años,2965414632.0,62,19.044086752600876,0.0,28.02,Vehículo,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 5 años y hasta 7 años,106856185878.9,1122,19.206153464534207,9.51,26.38,Vehículo,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 10 años,1287625705.03,11,13.592024951779631,10.2,21.9,Vehículo,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 3 años y hasta 5 años,4358063378.0,61,18.944092208307485,16.35,23.87,Vehículo,2026-08-29 a 2026-09-25
+55,Finandina,Más de 7 años y hasta 10 años,3420044819.0,39,19.882752960922527,16.62,26.55,Vehículo,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 3 años y hasta 5 años,7543326401.67,118,18.98373833687119,15.67,25.5,Vehículo,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Entre 31 días y 1 año,35046809.26,3,21.526437037366975,20.33,22.73,Vehículo,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 5 años y hasta 7 años,51731218543.0,685,20.27393552860833,14.98,25.93,Vehículo,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 5 años y hasta 7 años,54776583093.03,644,20.249269699673366,16.24,25.51,Vehículo,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Más de 3 años y hasta 5 años,99990000.0,1,10.47,10.47,10.47,Vehículo,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 5 años y hasta 7 años,942090000.0,13,21.350848326593,19.0,26.97,Vehículo,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 7 años y hasta 10 años,4742504329.0,52,19.337808355588322,14.98,23.29,Vehículo,2026-08-29 a 2026-09-25
+55,Finandina,Más de 1 año y hasta 3 años,7957620223.0,146,20.0730376583052,10.41,28.06,Vehículo,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 7 años y hasta 10 años,4177374180.0,30,22.922339329008828,18.58,28.78,Vehículo,2026-08-29 a 2026-09-25
+59,Banco Santander,Más de 5 años y hasta 7 años,183220888806.0,2419,21.22674064479164,0.0,28.47,Vehículo,2026-08-29 a 2026-09-25
+59,Banco Santander,Más de 3 años y hasta 5 años,10509364802.0,195,21.126136287921767,5.28,28.17,Vehículo,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 1 año y hasta 3 años,5461432771.0,95,20.377728482462356,1.21,28.79,Vehículo,2026-08-29 a 2026-09-25
+55,Finandina,Más de 5 años y hasta 7 años,118162945654.0,1548,23.02683409787417,10.42,29.23,Vehículo,2026-08-29 a 2026-09-25
+55,Finandina,Más de 3 años y hasta 5 años,38220919827.0,590,21.96918303603311,12.14,29.0,Vehículo,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 1 año y hasta 3 años,522320158.0,9,19.309631094115268,18.02,20.84,Vehículo,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Más de 5 años y hasta 7 años,45726468553.0,483,19.50344780524517,10.99,29.23,Vehículo,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 1 año y hasta 3 años,1272355211.99,40,19.7563881320243,16.22,24.57,Vehículo,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Más de 1 año y hasta 3 años,1036680000.0,15,21.430970309063547,17.88,26.68,Vehículo,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 7 años y hasta 10 años,2274245034.79,28,20.106415908585173,12.68,26.06,Vehículo,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Más de 7 años y hasta 15 años,42279156641.0,192,15.796093514145221,13.2,16.65,Vivienda,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 5 años y hasta 7 años,549718600.0,3,16.058940432432156,15.11,17.24,Vivienda,2026-08-29 a 2026-09-25
+67,Banco Unión,Más de 7 años y hasta 15 años,1407917600.0,8,18.0,18.0,18.0,Vivienda,2026-08-29 a 2026-09-25
+42,Banco Davibank,Más de 5 años y hasta 7 años,212000000.0,1,15.49,15.49,15.49,Vivienda,2026-08-29 a 2026-09-25
+43,Banagrario,Más de 15 años y hasta 20 años,11200314748.0,66,15.115816448643251,14.2,15.3,Vivienda,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 7 años y hasta 15 años,8958638208.0,37,15.004802423208872,7.0,16.88,Vivienda,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 7 años y hasta 15 años,34350593133.65,142,15.707304546928528,14.5,17.2,Vivienda,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 15 años y hasta 20 años,30540732149.72,112,15.78028378027278,13.4,17.89,Vivienda,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 7 años y hasta 15 años,22221522100.23,125,15.480520419488968,11.0,17.79,Vivienda,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 7 años y hasta 15 años,19778717886.0,157,15.444606045361237,12.42,17.04,Vivienda,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 15 años y hasta 20 años,101520893192.0,446,15.98056645655955,6.11,18.37,Vivienda,2026-08-29 a 2026-09-25
+42,Banco Davibank,A más de 20 años,1938462500.0,6,15.3589106701832,15.27,15.57,Vivienda,2026-08-29 a 2026-09-25
+49,AV Villas,Más de 15 años y hasta 20 años,19215952559.0,69,13.82858393162054,11.9,18.5,Vivienda,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 5 años y hasta 7 años,391181881.0,12,15.151317614273651,14.45,16.9,Vivienda,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 5 años y hasta 7 años,1055732475.0,9,16.65550828845158,15.49,17.49,Vivienda,2026-08-29 a 2026-09-25
+42,Banco Davibank,Más de 7 años y hasta 15 años,14364784136.0,71,15.440725264336821,15.27,15.7,Vivienda,2026-08-29 a 2026-09-25
+43,Banagrario,Más de 7 años y hasta 15 años,4131057725.0,31,15.068576395891442,5.0,15.3,Vivienda,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Vivienda hasta 5 años,1148169369.0,43,15.147144474527432,11.75,16.56,Vivienda,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 5 años y hasta 7 años,43900000.0,1,14.3,14.3,14.3,Vivienda,2026-08-29 a 2026-09-25
+42,Banco Davibank,Vivienda hasta 5 años,981039575.0,13,15.400700915149116,15.34,15.49,Vivienda,2026-08-29 a 2026-09-25
+7,Bancolombia,Vivienda hasta 5 años,2222591341.0,13,15.634955567479643,14.8,16.4,Vivienda,2026-08-29 a 2026-09-25
+49,AV Villas,Más de 5 años y hasta 7 años,80000000.0,1,13.5,13.5,13.5,Vivienda,2026-08-29 a 2026-09-25
+43,Banagrario,Vivienda hasta 5 años,218977752.0,5,15.005987475841838,14.5,15.3,Vivienda,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Vivienda hasta 5 años,1234000000.0,14,15.66447325769854,13.34,17.19,Vivienda,2026-08-29 a 2026-09-25
+42,Banco Davibank,Más de 15 años y hasta 20 años,21519572899.0,76,15.40309105185694,14.0,15.7,Vivienda,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Vivienda hasta 5 años,1295790709.0,25,16.325119565276957,8.0,17.35,Vivienda,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 7 años y hasta 15 años,384000000.0,2,14.3,14.3,14.3,Vivienda,2026-08-29 a 2026-09-25
+43,Banagrario,Más de 5 años y hasta 7 años,11000000.0,1,15.3,15.3,15.3,Vivienda,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Más de 15 años y hasta 20 años,131647679085.0,471,15.594723047851977,13.0,16.65,Vivienda,2026-08-29 a 2026-09-25
+43,Banagrario,A más de 20 años,951000000.0,5,15.2,15.2,15.2,Vivienda,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Más de 5 años y hasta 7 años,180000000.0,2,15.922222222222222,15.5,16.45,Vivienda,2026-08-29 a 2026-09-25
+7,Bancolombia,A más de 20 años,560000000.0,1,16.0,16.0,16.0,Vivienda,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 7 años y hasta 15 años,19608907819.0,147,15.78549998451038,12.7,17.8,Vivienda,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 15 años y hasta 20 años,31038934644.0,148,15.170472443090208,12.6,17.8,Vivienda,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 15 años y hasta 20 años,207982877459.0,671,15.681201686425553,14.5,17.6,Vivienda,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Vivienda hasta 5 años,438926904.0,4,14.872738195150598,13.75,16.79,Vivienda,2026-08-29 a 2026-09-25
+49,AV Villas,Más de 7 años y hasta 15 años,7800227345.0,37,13.673581934350658,12.5,15.6,Vivienda,2026-08-29 a 2026-09-25
+49,AV Villas,Vivienda hasta 5 años,514000000.0,3,14.091439688715951,13.15,14.6,Vivienda,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Vivienda hasta 5 años,2666763724.0,19,15.855769410113664,15.25,16.45,Vivienda,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 5 años y hasta 7 años,120000000.0,1,15.8,15.8,15.8,Vivienda,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 15 años y hasta 20 años,4912291178.0,20,14.847772409251917,11.88,16.77,Vivienda,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 5 años y hasta 7 años,297000000.0,5,16.552020202020202,16.0,17.35,Vivienda,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 15 años y hasta 20 años,44120711955.0,132,15.178411305448755,7.0,18.3,Vivienda,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Más de 7 años y hasta 15 años,27503980669.0,272,14.686497704569048,14.3,16.15,Vivienda VIS,2026-08-29 a 2026-09-25
+67,Banco Unión,Más de 7 años y hasta 15 años,1717158682.0,12,16.767024868485624,16.74,16.79,Vivienda VIS,2026-08-29 a 2026-09-25
+43,Banagrario,Más de 15 años y hasta 20 años,7609285672.0,79,14.356596890229092,5.0,14.8,Vivienda VIS,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 7 años y hasta 15 años,1704609942.0,13,15.561927674982432,7.0,16.8,Vivienda VIS,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 7 años y hasta 15 años,18085526943.0,144,15.158661790616536,14.4,15.9,Vivienda VIS,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 15 años y hasta 20 años,18271875252.57,145,13.2926442743217,11.84,15.16,Vivienda VIS,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 7 años y hasta 15 años,14761313220.96,186,13.452165375311772,11.0,16.23,Vivienda VIS,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 7 años y hasta 15 años,15416229344.0,122,14.824482957292464,11.75,15.94,Vivienda VIS,2026-08-29 a 2026-09-25
+13,BBVA Colombia,A más de 20 años,6169595510.04,51,13.153635903363064,11.94,14.96,Vivienda VIS,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 15 años y hasta 20 años,45605598636.0,350,15.211799451101715,11.21,16.32,Vivienda VIS,2026-08-29 a 2026-09-25
+42,Banco Davibank,A más de 20 años,1642013282.0,11,14.626442935423222,14.39,14.69,Vivienda VIS,2026-08-29 a 2026-09-25
+49,AV Villas,Más de 15 años y hasta 20 años,6718822941.0,53,13.61463364330678,12.6,15.2,Vivienda VIS,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Más de 5 años y hasta 7 años,419331032.0,4,14.034289702651911,12.95,14.44,Vivienda VIS,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Más de 5 años y hasta 7 años,311000000.0,7,13.494437299035368,12.32,15.25,Vivienda VIS,2026-08-29 a 2026-09-25
+42,Banco Davibank,Más de 7 años y hasta 15 años,2451170660.0,24,14.707578301463512,14.39,15.24,Vivienda VIS,2026-08-29 a 2026-09-25
+43,Banagrario,Más de 7 años y hasta 15 años,2479265115.0,36,14.642938736505393,13.7,14.8,Vivienda VIS,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Vivienda hasta 5 años,382548139.0,4,13.418888130338022,12.01,14.57,Vivienda VIS,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,A más de 20 años,13062321589.0,111,15.406959060312568,11.62,16.08,Vivienda VIS,2026-08-29 a 2026-09-25
+42,Banco Davibank,Vivienda hasta 5 años,518000000.0,8,15.083474903474904,14.92,15.24,Vivienda VIS,2026-08-29 a 2026-09-25
+7,Bancolombia,Vivienda hasta 5 años,1968148425.0,21,15.11546030340674,13.2,15.7,Vivienda VIS,2026-08-29 a 2026-09-25
+43,Banagrario,Vivienda hasta 5 años,146000000.0,4,14.787671232876711,14.7,14.8,Vivienda VIS,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Vivienda hasta 5 años,452500000.0,13,13.76771270718232,12.43,14.56,Vivienda VIS,2026-08-29 a 2026-09-25
+42,Banco Davibank,Más de 15 años y hasta 20 años,4614920882.0,40,14.692767386775754,14.39,15.24,Vivienda VIS,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Vivienda hasta 5 años,2967361475.0,110,15.21758331904272,13.75,16.3,Vivienda VIS,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 7 años y hasta 15 años,167428765.0,1,13.89,13.89,13.89,Vivienda VIS,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Más de 15 años y hasta 20 años,126492292310.0,943,14.432507235018658,12.7,14.9,Vivienda VIS,2026-08-29 a 2026-09-25
+43,Banagrario,A más de 20 años,1059402241.0,10,14.555210248795387,13.7,14.7,Vivienda VIS,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Más de 5 años y hasta 7 años,802398796.0,8,14.569293659433656,14.3,16.15,Vivienda VIS,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 7 años y hasta 15 años,19656032385.0,362,14.7921850633759,8.0,16.3,Vivienda VIS,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 15 años y hasta 20 años,41855784213.0,359,14.011834234623327,8.0,16.3,Vivienda VIS,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 15 años y hasta 20 años,110123660289.0,830,15.208747758067176,14.67,16.4,Vivienda VIS,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Vivienda hasta 5 años,58243745.0,1,16.69,16.69,16.69,Vivienda VIS,2026-08-29 a 2026-09-25
+49,AV Villas,Más de 7 años y hasta 15 años,2258414273.0,23,13.512416533465649,12.4,14.65,Vivienda VIS,2026-08-29 a 2026-09-25
+49,AV Villas,Vivienda hasta 5 años,125700000.0,4,13.609307875894988,13.32,13.7,Vivienda VIS,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Vivienda hasta 5 años,1585639217.0,28,14.998623552648924,14.3,16.15,Vivienda VIS,2026-08-29 a 2026-09-25
+7,Bancolombia,Más de 5 años y hasta 7 años,732779591.0,6,15.155958643640773,14.9,15.7,Vivienda VIS,2026-08-29 a 2026-09-25
+54,Bancoomeva,Más de 15 años y hasta 20 años,1048618633.0,7,14.38329394102994,12.38,15.53,Vivienda VIS,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Más de 5 años y hasta 7 años,976703991.0,26,15.100591622636259,13.4,16.25,Vivienda VIS,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Más de 15 años y hasta 20 años,7274769771.0,51,15.768529929921268,7.0,16.74,Vivienda VIS,2026-08-29 a 2026-09-25
+49,AV Villas,Avances en efectivo,39375893501.75,48827,29.221664757137543,29.19,29.6,Tarjeta de crédito,2026-08-29 a 2026-09-25
+49,AV Villas,Consumos a más de 36 meses,13300227057.0,1435,15.8689728213976,13.22,29.54,Tarjeta de crédito,2026-08-29 a 2026-09-25
+49,AV Villas,Consumos a un mes,75697856003.85,589205,0.0,0.0,0.0,Tarjeta de crédito,2026-08-29 a 2026-09-25
+49,AV Villas,Consumos entre 13 y 18 meses,2167030575.0,913,21.047875333111072,13.76,29.65,Tarjeta de crédito,2026-08-29 a 2026-09-25
+49,AV Villas,Consumos entre 19 y 24 meses,6204293089.89,11350,21.67068892854481,13.76,29.6,Tarjeta de crédito,2026-08-29 a 2026-09-25
+49,AV Villas,Consumos entre 25 y 36 meses,32544537696.04,111338,26.942330276557914,13.76,29.6,Tarjeta de crédito,2026-08-29 a 2026-09-25
+49,AV Villas,Consumos entre 2 y 6 meses,31378494058.8,81670,28.003897788839815,13.76,29.65,Tarjeta de crédito,2026-08-29 a 2026-09-25
+49,AV Villas,Consumos entre 7 y 12 meses,12305991350.58,10690,25.097823260078098,13.76,29.65,Tarjeta de crédito,2026-08-29 a 2026-09-25
+43,Banagrario,Avances en efectivo,4599394052.92,6616,25.800834247986504,23.87,28.78,Tarjeta de crédito,2026-08-29 a 2026-09-25
+43,Banagrario,Consumos a un mes,5781044313.0,23704,0.0,0.0,0.0,Tarjeta de crédito,2026-08-29 a 2026-09-25
+43,Banagrario,Consumos entre 13 y 18 meses,68766541.0,71,25.508899114469052,21.27,28.78,Tarjeta de crédito,2026-08-29 a 2026-09-25
+43,Banagrario,Consumos entre 19 y 24 meses,256673175.0,309,23.98369128332168,14.3,28.78,Tarjeta de crédito,2026-08-29 a 2026-09-25
+43,Banagrario,Consumos entre 25 y 36 meses,444351231.26,816,25.415884049417137,14.3,28.78,Tarjeta de crédito,2026-08-29 a 2026-09-25
+43,Banagrario,Consumos entre 2 y 6 meses,15026295907.0,38144,24.449037492130493,21.27,28.78,Tarjeta de crédito,2026-08-29 a 2026-09-25
+43,Banagrario,Consumos entre 7 y 12 meses,3757253863.0,5837,24.212000084972697,14.3,28.78,Tarjeta de crédito,2026-08-29 a 2026-09-25
+51,Bancien,Avances en efectivo,9270000.0,37,29.27533980582524,29.24,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+51,Bancien,Consumos a más de 36 meses,14602150.0,25,29.353317148502104,29.24,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+51,Bancien,Consumos a un mes,334225601.0,4308,25.651712074803033,0.0,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+51,Bancien,Consumos entre 13 y 18 meses,26591700.0,43,26.403468602609085,0.0,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+51,Bancien,Consumos entre 19 y 24 meses,70194825.07,239,24.435540143456617,0.0,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+51,Bancien,Consumos entre 25 y 36 meses,66360501.0,113,22.55850858735982,0.0,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+51,Bancien,Consumos entre 2 y 6 meses,676623075.0,3001,26.851094562389846,0.0,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+51,Bancien,Consumos entre 7 y 12 meses,245266744.0,512,27.15762114076093,0.0,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Avances en efectivo,17472613972.0,45603,28.63,28.63,28.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Consumos a un mes,39298535534.0,383927,28.602968227850855,20.13,28.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Consumos entre 13 y 18 meses,514257925.0,637,28.537251509736087,20.13,28.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Consumos entre 19 y 24 meses,3823169614.0,29412,28.58897203500059,20.13,28.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Consumos entre 25 y 36 meses,7795457628.0,8771,28.59088263338964,20.13,28.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Consumos entre 2 y 6 meses,20418996241.0,69928,28.605996385062465,20.13,28.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+30,Banco Caja Social S.A.,Consumos entre 7 y 12 meses,5592218306.0,9982,28.539278737917712,20.13,28.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+42,Banco Davibank,Avances en efectivo,67940716618.0,61310,28.928964220556345,28.84,29.24,Tarjeta de crédito,2026-08-29 a 2026-09-25
+42,Banco Davibank,Consumos a más de 36 meses,75738284205.0,6407,24.235665410910006,13.35,29.24,Tarjeta de crédito,2026-08-29 a 2026-09-25
+42,Banco Davibank,Consumos a un mes,620513620502.23,5398715,28.665499916244848,0.0,29.24,Tarjeta de crédito,2026-08-29 a 2026-09-25
+42,Banco Davibank,Consumos entre 13 y 18 meses,7333020949.0,5556,27.643736651959756,0.0,29.24,Tarjeta de crédito,2026-08-29 a 2026-09-25
+42,Banco Davibank,Consumos entre 19 y 24 meses,52449653794.23,134282,27.88356781664213,0.0,29.24,Tarjeta de crédito,2026-08-29 a 2026-09-25
+42,Banco Davibank,Consumos entre 25 y 36 meses,130361081958.0,511329,28.442329607517355,13.48,29.24,Tarjeta de crédito,2026-08-29 a 2026-09-25
+42,Banco Davibank,Consumos entre 2 y 6 meses,181432004965.0,570193,28.959181892794444,0.0,29.24,Tarjeta de crédito,2026-08-29 a 2026-09-25
+42,Banco Davibank,Consumos entre 7 y 12 meses,65028490893.0,109102,28.066669457096943,0.0,29.24,Tarjeta de crédito,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Avances en efectivo,512771119409.53,426385,20.61975953597248,0.0,29.54,Tarjeta de crédito,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Consumos a más de 36 meses,180540436878.24,95393,27.687989795046036,0.0,29.54,Tarjeta de crédito,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Consumos a un mes,1114611018795.62,10293644,1.3828484931662235,0.0,29.54,Tarjeta de crédito,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Consumos entre 13 y 18 meses,23008003010.02,26123,16.38016573074569,0.0,29.54,Tarjeta de crédito,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Consumos entre 19 y 24 meses,66063763253.06,138927,24.663286554377567,0.0,29.54,Tarjeta de crédito,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Consumos entre 25 y 36 meses,124166356722.5,372785,28.720327829720965,0.0,29.54,Tarjeta de crédito,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Consumos entre 2 y 6 meses,336192501441.48,1014745,27.512654582784325,0.0,29.54,Tarjeta de crédito,2026-08-29 a 2026-09-25
+39,Banco Davivienda,Consumos entre 7 y 12 meses,133275765432.23,271451,25.286133603160383,0.0,29.54,Tarjeta de crédito,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Avances en efectivo,157972804599.0,175118,28.50742122835121,19.08,29.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Consumos a más de 36 meses,174376335021.0,41762,20.521452861886388,0.0,29.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Consumos a un mes,512416839941.0,3369398,2.5277763410139658,0.0,26.23,Tarjeta de crédito,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Consumos entre 13 y 18 meses,48152747741.0,11541,24.639946943192864,0.0,29.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Consumos entre 19 y 24 meses,99041751947.0,72770,25.32471685596424,0.0,29.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Consumos entre 25 y 36 meses,237750861471.0,711684,27.10876778673336,0.0,29.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Consumos entre 2 y 6 meses,171445921305.0,406616,26.768306413439998,0.0,29.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+1,Banco de Bogotá,Consumos entre 7 y 12 meses,88535790692.0,81377,25.57554453347989,0.0,29.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Avances en efectivo,38457381984.0,35609,27.703388540765317,17.23,29.51,Tarjeta de crédito,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Consumos a más de 36 meses,10932898137.0,1055,17.498386150940135,14.33,29.51,Tarjeta de crédito,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Consumos a un mes,171314609229.05,1220707,28.71164972499944,16.31,29.51,Tarjeta de crédito,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Consumos entre 13 y 18 meses,2763415549.0,1137,22.153573853437848,14.26,29.51,Tarjeta de crédito,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Consumos entre 19 y 24 meses,6238269777.0,3634,23.066539861890934,14.26,29.51,Tarjeta de crédito,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Consumos entre 25 y 36 meses,7581199421.0,3501,23.15045813648832,14.33,29.51,Tarjeta de crédito,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Consumos entre 2 y 6 meses,42886981544.0,104078,28.513557703505747,13.76,29.51,Tarjeta de crédito,2026-08-29 a 2026-09-25
+23,Banco de Occidente,Consumos entre 7 y 12 meses,17334301766.0,13574,24.43130729602876,13.76,29.51,Tarjeta de crédito,2026-08-29 a 2026-09-25
+56,Banco Falabella S.A.,Avances en efectivo,128193677298.94,94382,26.486368287756505,16.1,29.64,Tarjeta de crédito,2026-08-29 a 2026-09-25
+56,Banco Falabella S.A.,Consumos a un mes,419523775349.72,3456510,0.0,0.0,0.0,Tarjeta de crédito,2026-08-29 a 2026-09-25
+56,Banco Falabella S.A.,Consumos entre 13 y 18 meses,4974582546.42,5043,29.262192776923893,28.72,29.64,Tarjeta de crédito,2026-08-29 a 2026-09-25
+56,Banco Falabella S.A.,Consumos entre 19 y 24 meses,74994353593.13,173554,28.430729386524952,0.0,29.64,Tarjeta de crédito,2026-08-29 a 2026-09-25
+56,Banco Falabella S.A.,Consumos entre 25 y 36 meses,32861230009.26,134096,29.014301918927785,0.0,29.64,Tarjeta de crédito,2026-08-29 a 2026-09-25
+56,Banco Falabella S.A.,Consumos entre 2 y 6 meses,213729013367.36,567635,28.013860276769208,0.0,29.64,Tarjeta de crédito,2026-08-29 a 2026-09-25
+56,Banco Falabella S.A.,Consumos entre 7 y 12 meses,64946324414.63,129627,29.12955373913083,0.0,29.64,Tarjeta de crédito,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Avances en efectivo,2725283619.0,3705,27.36749370156472,24.9,28.17,Tarjeta de crédito,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Consumos a un mes,9718157565.0,63376,26.985030026389573,24.27,27.57,Tarjeta de crédito,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Consumos entre 13 y 18 meses,71575871.0,40,27.11784030361293,26.68,27.57,Tarjeta de crédito,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Consumos entre 19 y 24 meses,120729209.0,117,26.84045411222731,25.64,27.57,Tarjeta de crédito,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Consumos entre 25 y 36 meses,2938664390.0,12065,26.93912865505203,25.64,27.57,Tarjeta de crédito,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Consumos entre 2 y 6 meses,2378641905.0,5983,27.070166169615177,26.68,27.57,Tarjeta de crédito,2026-08-29 a 2026-09-25
+12,Banco GNB Sudameris,Consumos entre 7 y 12 meses,658009988.0,757,27.005994540268283,26.26,27.57,Tarjeta de crédito,2026-08-29 a 2026-09-25
+7,Bancolombia,Avances en efectivo,790954962680.53,877005,29.220007008545835,29.2,29.48,Tarjeta de crédito,2026-08-29 a 2026-09-25
+7,Bancolombia,Consumos a más de 36 meses,59414766.0,284,12.467853932976864,0.0,29.22,Tarjeta de crédito,2026-08-29 a 2026-09-25
+7,Bancolombia,Consumos a un mes,1446660873438.63,10646842,0.3671913506906047,0.0,29.22,Tarjeta de crédito,2026-08-29 a 2026-09-25
+7,Bancolombia,Consumos entre 13 y 18 meses,9240995355.58,8606,23.73006101960156,0.0,29.22,Tarjeta de crédito,2026-08-29 a 2026-09-25
+7,Bancolombia,Consumos entre 19 y 24 meses,25051006956.97,36943,23.13830781946959,0.0,29.22,Tarjeta de crédito,2026-08-29 a 2026-09-25
+7,Bancolombia,Consumos entre 25 y 36 meses,259767587640.93,1041716,29.196023763533695,0.0,29.38,Tarjeta de crédito,2026-08-29 a 2026-09-25
+7,Bancolombia,Consumos entre 2 y 6 meses,365358209965.89,953801,27.528120101267334,0.0,29.22,Tarjeta de crédito,2026-08-29 a 2026-09-25
+7,Bancolombia,Consumos entre 7 y 12 meses,87654372243.48,107604,25.19266708785368,0.0,29.22,Tarjeta de crédito,2026-08-29 a 2026-09-25
+54,Bancoomeva,Consumos a más de 36 meses,2350413282.5,3406,19.89319376861303,18.24,26.13,Tarjeta de crédito,2026-08-29 a 2026-09-25
+54,Bancoomeva,Consumos a un mes,7640979640.86,72028,24.276322530175374,0.0,26.13,Tarjeta de crédito,2026-08-29 a 2026-09-25
+54,Bancoomeva,Consumos entre 13 y 18 meses,94174446.0,70,23.437546300298916,12.78,25.9,Tarjeta de crédito,2026-08-29 a 2026-09-25
+54,Bancoomeva,Consumos entre 19 y 24 meses,538688123.0,257,21.09113301577284,12.78,26.03,Tarjeta de crédito,2026-08-29 a 2026-09-25
+54,Bancoomeva,Consumos entre 25 y 36 meses,8513051391.9,11255,19.214888669229342,12.78,26.13,Tarjeta de crédito,2026-08-29 a 2026-09-25
+54,Bancoomeva,Consumos entre 2 y 6 meses,2959711506.0,9441,24.68924951369568,0.0,26.13,Tarjeta de crédito,2026-08-29 a 2026-09-25
+54,Bancoomeva,Consumos entre 7 y 12 meses,1206217261.0,1183,22.597218624199407,16.8,26.03,Tarjeta de crédito,2026-08-29 a 2026-09-25
+2,Banco Popular,Avances en efectivo,30357321888.0,34182,25.636108561312334,13.04,29.24,Tarjeta de crédito,2026-08-29 a 2026-09-25
+2,Banco Popular,Consumos a más de 36 meses,5764526.0,12,28.915797243346635,28.17,29.21,Tarjeta de crédito,2026-08-29 a 2026-09-25
+2,Banco Popular,Consumos a un mes,22664251419.26,214933,0.0,0.0,0.0,Tarjeta de crédito,2026-08-29 a 2026-09-25
+2,Banco Popular,Consumos entre 13 y 18 meses,451246053.0,498,28.865294586100237,0.0,29.24,Tarjeta de crédito,2026-08-29 a 2026-09-25
+2,Banco Popular,Consumos entre 19 y 24 meses,938646383.0,1309,28.6944896506036,0.0,29.24,Tarjeta de crédito,2026-08-29 a 2026-09-25
+2,Banco Popular,Consumos entre 25 y 36 meses,6869940762.06,13417,29.17042795160588,26.29,29.24,Tarjeta de crédito,2026-08-29 a 2026-09-25
+2,Banco Popular,Consumos entre 2 y 6 meses,13982436132.0,49768,27.714208413516392,0.0,29.24,Tarjeta de crédito,2026-08-29 a 2026-09-25
+2,Banco Popular,Consumos entre 7 y 12 meses,3959120598.0,6277,27.508496048826345,0.0,29.24,Tarjeta de crédito,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Avances en efectivo,29152242586.92,47915,28.552362426548942,16.63,29.6,Tarjeta de crédito,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Consumos a más de 36 meses,2055979193.79,1281,20.67616068297211,15.25,29.6,Tarjeta de crédito,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Consumos a un mes,41522040843.85,285944,29.152571655982133,22.79,29.6,Tarjeta de crédito,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Consumos entre 13 y 18 meses,903255943.0,1144,29.182810373017382,22.79,29.6,Tarjeta de crédito,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Consumos entre 19 y 24 meses,5755767106.12,33895,28.081101076722135,12.55,29.6,Tarjeta de crédito,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Consumos entre 25 y 36 meses,2089544070.0,2994,25.919422104401946,15.25,29.6,Tarjeta de crédito,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Consumos entre 2 y 6 meses,30046702299.27,117066,29.064884470402912,0.0,29.6,Tarjeta de crédito,2026-08-29 a 2026-09-25
+63,Banco Serfinanza S.A.,Consumos entre 7 y 12 meses,8532001423.18,15716,27.897668786930367,0.0,29.6,Tarjeta de crédito,2026-08-29 a 2026-09-25
+67,Banco Unión,Avances en efectivo,450115568.0,723,29.25271651803876,29.23,29.53,Tarjeta de crédito,2026-08-29 a 2026-09-25
+67,Banco Unión,Consumos a más de 36 meses,19767377.0,113,29.23566902983638,29.23,29.53,Tarjeta de crédito,2026-08-29 a 2026-09-25
+67,Banco Unión,Consumos a un mes,94885152.0,1062,29.24872752809628,29.23,29.53,Tarjeta de crédito,2026-08-29 a 2026-09-25
+67,Banco Unión,Consumos entre 13 y 18 meses,3113524.0,3,29.23,29.23,29.23,Tarjeta de crédito,2026-08-29 a 2026-09-25
+67,Banco Unión,Consumos entre 19 y 24 meses,3755249.0,9,29.356223321010138,29.23,29.53,Tarjeta de crédito,2026-08-29 a 2026-09-25
+67,Banco Unión,Consumos entre 25 y 36 meses,5063054.0,15,29.39278994851724,29.23,29.53,Tarjeta de crédito,2026-08-29 a 2026-09-25
+67,Banco Unión,Consumos entre 2 y 6 meses,150458628.0,611,29.265359748727736,29.23,29.53,Tarjeta de crédito,2026-08-29 a 2026-09-25
+67,Banco Unión,Consumos entre 7 y 12 meses,41277417.0,98,29.291939965381072,29.23,29.53,Tarjeta de crédito,2026-08-29 a 2026-09-25
+53,Banco W S.A.,Avances en efectivo,265833000.0,789,28.774946902754735,28.74,29.16,Tarjeta de crédito,2026-08-29 a 2026-09-25
+53,Banco W S.A.,Consumos a más de 36 meses,3894779.0,6,28.74,28.74,28.74,Tarjeta de crédito,2026-08-29 a 2026-09-25
+53,Banco W S.A.,Consumos a un mes,625010914.0,6545,28.782014136860337,28.74,29.16,Tarjeta de crédito,2026-08-29 a 2026-09-25
+53,Banco W S.A.,Consumos entre 13 y 18 meses,12223475.0,24,28.81823351379211,28.74,29.16,Tarjeta de crédito,2026-08-29 a 2026-09-25
+53,Banco W S.A.,Consumos entre 19 y 24 meses,10624385.0,46,28.821263604434517,28.74,29.16,Tarjeta de crédito,2026-08-29 a 2026-09-25
+53,Banco W S.A.,Consumos entre 25 y 36 meses,5866882.0,54,28.817027559102087,28.74,29.16,Tarjeta de crédito,2026-08-29 a 2026-09-25
+53,Banco W S.A.,Consumos entre 2 y 6 meses,699780412.0,3142,28.785353130290247,28.74,29.16,Tarjeta de crédito,2026-08-29 a 2026-09-25
+53,Banco W S.A.,Consumos entre 7 y 12 meses,109198118.0,298,28.788331471427007,28.74,29.16,Tarjeta de crédito,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Avances en efectivo,423132132042.83,542544,29.238933663663452,25.52,29.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Consumos a más de 36 meses,126267345387.93,443542,23.495713775155856,0.0,29.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Consumos a un mes,291031783950.63,2241978,0.0,0.0,0.0,Tarjeta de crédito,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Consumos entre 13 y 18 meses,56803178639.82,228986,25.749285868835415,0.0,29.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Consumos entre 19 y 24 meses,5298430072.95,14381,23.420575628511163,0.0,29.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Consumos entre 25 y 36 meses,33039884655.35,137500,25.233266822249306,0.0,29.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Consumos entre 2 y 6 meses,81060278271.0,231335,26.48939361934713,0.0,29.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+13,BBVA Colombia,Consumos entre 7 y 12 meses,35349870645.69,76163,24.766634889086912,0.0,29.63,Tarjeta de crédito,2026-08-29 a 2026-09-25
+58,Coopcentral,Avances en efectivo,424160000.0,299,20.05,20.05,20.05,Tarjeta de crédito,2026-08-29 a 2026-09-25
+58,Coopcentral,Consumos a más de 36 meses,4061508.0,2,20.05,20.05,20.05,Tarjeta de crédito,2026-08-29 a 2026-09-25
+58,Coopcentral,Consumos a un mes,444634897.57,3192,20.05,20.05,20.05,Tarjeta de crédito,2026-08-29 a 2026-09-25
+58,Coopcentral,Consumos entre 13 y 18 meses,15080208.95,11,19.6215349769076,18.37,20.05,Tarjeta de crédito,2026-08-29 a 2026-09-25
+58,Coopcentral,Consumos entre 19 y 24 meses,139432344.55,663,20.04956905264561,18.89,20.05,Tarjeta de crédito,2026-08-29 a 2026-09-25
+58,Coopcentral,Consumos entre 25 y 36 meses,30581093.0,29,20.05,20.05,20.05,Tarjeta de crédito,2026-08-29 a 2026-09-25
+58,Coopcentral,Consumos entre 2 y 6 meses,244826118.52,582,20.04637113066624,18.37,20.05,Tarjeta de crédito,2026-08-29 a 2026-09-25
+58,Coopcentral,Consumos entre 7 y 12 meses,103053362.46,103,20.003417044352496,18.37,20.05,Tarjeta de crédito,2026-08-29 a 2026-09-25
+55,Finandina,Avances en efectivo,1652765000.0,4386,29.293094783589925,29.24,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+55,Finandina,Consumos a más de 36 meses,2956683547.99,527,24.07135826204324,12.55,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+55,Finandina,Consumos a un mes,9358156556.39,86989,29.300926568108192,29.24,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+55,Finandina,Consumos entre 13 y 18 meses,212776063.64,206,25.713149623603027,12.55,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+55,Finandina,Consumos entre 19 y 24 meses,3782053496.52,16890,26.74446258474578,12.55,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+55,Finandina,Consumos entre 25 y 36 meses,5901756505.0,6992,28.166186565087894,12.55,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+55,Finandina,Consumos entre 2 y 6 meses,5395004126.91,16167,27.431616669733057,11.3,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+55,Finandina,Consumos entre 7 y 12 meses,2599533867.56,3232,26.311643865822493,12.55,29.66,Tarjeta de crédito,2026-08-29 a 2026-09-25
+6,Itaú,Consumos a un mes,2948595953.4,5094,0.0,0.0,0.0,Tarjeta de crédito,2026-08-29 a 2026-09-25
+6,Itaú,Consumos entre 19 y 24 meses,165950426.57,158,29.20301397345724,29.2,29.23,Tarjeta de crédito,2026-08-29 a 2026-09-25
+6,Itaú,Consumos entre 25 y 36 meses,16289740.0,28,29.205733670396206,29.2,29.23,Tarjeta de crédito,2026-08-29 a 2026-09-25
+6,Itaú,Consumos entre 2 y 6 meses,211775044.0,179,29.203519216362437,29.2,29.23,Tarjeta de crédito,2026-08-29 a 2026-09-25
+6,Itaú,Consumos entre 7 y 12 meses,79856406.0,94,29.200197884688173,29.2,29.21,Tarjeta de crédito,2026-08-29 a 2026-09-25
+65,Lulo Bank,Consumos a más de 36 meses,121400928.0,75,28.74,28.74,28.74,Tarjeta de crédito,2026-08-29 a 2026-09-25
+65,Lulo Bank,Consumos a un mes,14189902918.93,163384,0.0,0.0,0.0,Tarjeta de crédito,2026-08-29 a 2026-09-25
+65,Lulo Bank,Consumos entre 13 y 18 meses,252054745.62,195,27.906437266304223,20.0,28.74,Tarjeta de crédito,2026-08-29 a 2026-09-25
+65,Lulo Bank,Consumos entre 19 y 24 meses,5222132144.88,36610,28.358676247831955,0.0,28.74,Tarjeta de crédito,2026-08-29 a 2026-09-25
+65,Lulo Bank,Consumos entre 25 y 36 meses,1911276040.99,1447,27.999597838208967,20.0,28.74,Tarjeta de crédito,2026-08-29 a 2026-09-25
+65,Lulo Bank,Consumos entre 2 y 6 meses,4711695427.66,15319,24.994880224972356,0.0,28.74,Tarjeta de crédito,2026-08-29 a 2026-09-25
+65,Lulo Bank,Consumos entre 7 y 12 meses,2346637779.36,2769,23.076254272749328,0.0,28.74,Tarjeta de crédito,2026-08-29 a 2026-09-25

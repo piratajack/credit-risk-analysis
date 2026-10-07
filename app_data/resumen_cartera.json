@@ -1,0 +1,13 @@
+{
+  "clientes": 29852,
+  "ingreso_mediana": 5472.0,
+  "segmentos": {
+    "1. Bajo": 18650,
+    "2. Medio": 7959,
+    "3. Alto": 1914,
+    "4. Muy alto": 1329
+  },
+  "fuente": "sinteticos",
+  "fuente_texto": "datos sintéticos de demostración con el formato de Give Me Some Credit",
+  "exportado": "2026-10-06"
+}
