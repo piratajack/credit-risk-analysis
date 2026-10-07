@@ -1,0 +1,8 @@
+[client]
+# Oculta las opciones de desarrollador para los visitantes
+toolbarMode = "minimal"
+# No muestra detalles técnicos de errores a los visitantes
+showErrorDetails = "none"
+
+[theme]
+primaryColor = "#534AB7"

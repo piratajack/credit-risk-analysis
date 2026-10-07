@@ -12,6 +12,9 @@ CSS = """
 }
 /* Sin barra lateral */
 [data-testid="stSidebar"], [data-testid="stSidebarCollapsedControl"] { display: none; }
+/* Sin barra superior de Streamlit (menú, GitHub, Fork) ni pie de página */
+[data-testid="stToolbar"], [data-testid="stDecoration"], #MainMenu, footer { display: none !important; }
+header[data-testid="stHeader"] { background: transparent; height: 0; }
 .block-container { padding-top: 1.2rem; max-width: 1180px; }
 
 /* Botones */
